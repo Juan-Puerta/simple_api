@@ -13,7 +13,7 @@ API básica hecha con el lenguaje de programación Java utilizado junto con el f
         "priceFinal": 999
         "description": "Un producto muy bueno"
         "categoryId": 1
-        "imageURL": "https://placeimg.com/640/480/any"
+        "imageURL": ["https://placeimg.com/640/480/any"]
     }
     ```
 - Categorías
