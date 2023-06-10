@@ -5,8 +5,8 @@ API básica hecha con el lenguaje de programación Java utilizado junto con el f
 ## Endpoints
 
 - Productos
-  - GET: Devuelve todos los productos `http://localhost:3000/nexsys/v1/products/`
-  - POST: Añade  un nuevo producto `http://localhost:3000/nexsys/v1/products/`, el cuerpo de la petición debe de ser de la siguiente forma
+  - GET: Devuelve todos los productos `http://localhost:8000/nexsys/v1/products/`
+  - POST: Añade  un nuevo producto `http://localhost:8000/nexsys/v1/products/`, el cuerpo de la petición debe de ser de la siguiente forma
     ```
     {
         "name": "Nombre del producto"
@@ -17,7 +17,7 @@ API básica hecha con el lenguaje de programación Java utilizado junto con el f
     }
     ```
 - Categorías
-  - GET: Devuelve todas las categorías existentes `http://localhost:3000/nexsys/v1/products/`
+  - GET: Devuelve todas las categorías existentes `http://localhost:8000/nexsys/v1/products/`
 
 ## Tecnologías usadas
 
