@@ -17,7 +17,7 @@ API básica hecha con el lenguaje de programación Java utilizado junto con el f
     }
     ```
 - Categorías
-  - GET: Devuelve todas las categorías existentes `http://localhost:8000/nexsys/v1/products/`
+  - GET: Devuelve todas las categorías existentes `http://localhost:8000/nexsys/v1/categories/`
 
 ## Tecnologías usadas
 
